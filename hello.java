@@ -6,8 +6,7 @@ public class Main {
         Kitchen k = new Kitchen("tomato", "sauce", "pan");
         Kitchen k = new Kitchen("tomato", "sauce", "pan");
         
-        Kitchen k = new Kitchen("tomato", "sauce", "pan");
-        Kitchen k = new Kitchen("tomato", "sauce", "pan");
+        
         Kitchen k = new Kitchen("tomato", "sauce", "pan");
         
     }
